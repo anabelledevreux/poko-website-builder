@@ -41,10 +41,12 @@ typeScales:
     minTypeScale: 1.2
     maxTypeScale: 1.25
 colors:
-  - name: Micmac
+  - name: Ceramicmac
     value: '#c68c27'
   - name: Fond
-    value: '#3b47a0'
+    value: '#423b2f'
+  - name: Typo
+    value: '#f2eee8'
 palettes:
   - name: Ceramicmac
     text: Fond
