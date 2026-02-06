@@ -5,8 +5,9 @@ createdAt: 2026-02-06T09:20:00.000Z
 uuid: 415520b54dbf
 localizationKey: 020d7df9b3b8
 name: index
+vars: {}
 ---
-{% section type="cover", vars={"minHeight":"","noPadding":false,"gap":"","class":""}, blocks=[{"alt":"Logo de Ceramicmac","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/visu.webp"}], advanced={} %}
+{% section type="grid-fluid", vars={"columns":1,"gap":"0","class":""}, blocks=[{"alt":"Logo de Ceramicmac","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/visu.webp"}], advanced={} %}
 
 # Welcome in my Portfolio
 
