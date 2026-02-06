@@ -49,12 +49,12 @@ colors:
     value: '#f2eee8'
 palettes:
   - name: Ceramicmac
-    text: Fond
-    bg: Micmac
-    accent: ''
-    border: ''
-    text-decoration: ''
-    text--marker: ''
+    text: Typo
+    bg: Fond
+    accent: Ceramicmac
+    border: Ceramicmac
+    text-decoration: Ceramicmac
+    text--marker: Ceramicmac
     advancedDefaults: null
     selection: null
     strong: null
