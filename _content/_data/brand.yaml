@@ -47,8 +47,8 @@ colors:
     value: '#3b47a0'
 palettes:
   - name: Ceramicmac
-    text: Micmac
-    bg: Fond
+    text: Fond
+    bg: Micmac
     accent: ''
     border: ''
     text-decoration: ''
