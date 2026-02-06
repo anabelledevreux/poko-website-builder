@@ -1,0 +1,9 @@
+siteName: Micmac
+productionUrl: f526dbf8.poko-website-builder-a4m.pages.dev
+languages:
+  - code: fr
+    name: Français
+    customUrlPrefix: null
+    status: published
+    isCmsDefault: false
+    isWebsiteDefault: false
