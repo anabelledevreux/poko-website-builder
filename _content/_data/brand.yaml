@@ -13,6 +13,16 @@ fontStacksContexts:
       native: system-ui
     code:
       native: monospace-code
+  - name: Typo
+    body:
+      native: system-ui
+      custom: Poppins
+    heading:
+      native: system-ui
+      custom: Poppins
+    code:
+      native: monospace-code
+      custom: Poppins
 customFontsImport:
   - name: Poppins
     source:
@@ -30,6 +40,11 @@ typeScales:
     maxFontSize: 20
     minTypeScale: 1.2
     maxTypeScale: 1.25
+colors:
+  - name: Micmac
+    value: '#ce9927'
+  - name: Fond
+    value: '#3b47a0'
 styleContexts:
   - name: main
     value: ctx
