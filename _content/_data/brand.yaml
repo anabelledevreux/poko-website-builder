@@ -45,6 +45,27 @@ colors:
     value: '#ce9927'
   - name: Fond
     value: '#3b47a0'
+palettes:
+  - name: Ceramicmac
+    text: Micmac
+    bg: Fond
+    accent: ''
+    border: ''
+    text-decoration: ''
+    text--marker: ''
+    advancedDefaults: null
+    selection: null
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
