@@ -46,7 +46,7 @@ colors:
   - name: Fond
     value: '#423b2f'
   - name: Typo
-    value: '#f2eee8'
+    value: '#ebe3d0'
 palettes:
   - name: Ceramicmac
     text: Typo
