@@ -7,7 +7,7 @@ localizationKey: 020d7df9b3b8
 name: index
 vars: {}
 ---
-{% section type="grid-fluid", vars={"columns":1,"gap":"0","class":""}, blocks=[{"alt":"Logo ceramicmac","title":"","width":300,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/logo.svg"}], advanced={} %}
+{% section type="grid-fluid", vars={"columns":1,"gap":"0","class":""}, blocks=[{"alt":"Logo ceramicmac","title":"","width":100,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/logo.svg"}], advanced={} %}
 
 # Welcome in my Portfolio
 
