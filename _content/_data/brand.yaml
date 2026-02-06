@@ -42,7 +42,7 @@ typeScales:
     maxTypeScale: 1.25
 colors:
   - name: Micmac
-    value: '#ce9927'
+    value: '#c68c27'
   - name: Fond
     value: '#3b47a0'
 palettes:
