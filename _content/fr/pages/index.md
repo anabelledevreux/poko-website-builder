@@ -6,7 +6,7 @@ uuid: 415520b54dbf
 localizationKey: 020d7df9b3b8
 name: index
 ---
-{% image src="/_images/logotest.webp", alt="Logo ceramicmac" %}
+{% image src="/_images/logotest.webp", alt="Logo ceramicmac", width="150" %}
 
 # Micmac's Portfolio
 
