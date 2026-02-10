@@ -51,8 +51,8 @@ colors:
     value: '#ffffff'
 palettes:
   - name: Ceramicmac
-    text: Typo
-    bg: Fond
+    text: Fond
+    bg: Blanc
     accent: Ceramicmac
     border: Ceramicmac
     text-decoration: Ceramicmac
