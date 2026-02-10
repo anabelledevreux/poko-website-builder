@@ -10,6 +10,6 @@ name: index
 
 # Micmac's Portfolio
 
-> From print to web, you can discover here a part of my graphic world.
+From print to web, you can discover here a part of my graphic world.
 
-> I am looking to improve the accessibility of my projects, while ensuring eco-design.
+I am looking to improve the accessibility of my projects, while ensuring eco-design.
