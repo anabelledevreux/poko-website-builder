@@ -47,6 +47,8 @@ colors:
     value: '#423b2f'
   - name: Typo
     value: '#ebe3d0'
+  - name: Blanc
+    value: '#ffffff'
 palettes:
   - name: Ceramicmac
     text: Typo
