@@ -22,7 +22,7 @@ vars: null
 
 ## My name is Ana, but you can call me Micmac.
 
-## I'm a designer w/ a focus on UX Design and Branding.
+## I'm a designer w/ a focus on UX Design and Branding. 
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
