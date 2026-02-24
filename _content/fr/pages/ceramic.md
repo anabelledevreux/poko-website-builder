@@ -1,5 +1,5 @@
 ---
-translationKey: ceramique
+translationKey: Ceramic
 lang: fr
 createdAt: 2026-02-24T11:06:00.000Z
 uuid: 670a2308ab63
@@ -24,15 +24,12 @@ dataList: []
 {% grid  %}
 {% gridItem %}
 ![](/_images/img_6560.webp)
-
 {% endgridItem %}
 {% gridItem %}
 ![](/_images/img_6557.webp)
-
 {% endgridItem %}
 {% gridItem %}
 ![](/_images/img_6628.webp)
-
 {% endgridItem %}
 {% endgrid %}
 
