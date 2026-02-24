@@ -8,7 +8,7 @@ name: Ceramic
 eleventyNavigation:
   title: Ceramic
   parent: ''
-  order: 5
+  order: 3
 metadata: null
 preview: null
 tags: []
