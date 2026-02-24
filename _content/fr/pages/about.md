@@ -8,7 +8,7 @@ name: About
 eleventyNavigation:
   title: About
   parent: ''
-  order: 3
+  order: 4
 metadata: null
 preview: null
 tags: []
