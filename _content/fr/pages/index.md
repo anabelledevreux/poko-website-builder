@@ -18,7 +18,7 @@ vars: null
 {% twoColumnsItem %}
 ## Hello !
 
-## My name is Ana, but you can call me Micmac.
+### My name is Ana, but you can call me Micmac.
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
