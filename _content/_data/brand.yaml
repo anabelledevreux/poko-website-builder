@@ -48,9 +48,9 @@ colors:
   - name: blanc
     value: '#ffffff'
   - name: micmac
-    value: '#0041a8'
+    value: '#3a3f73'
   - name: details
-    value: '#2db2eb'
+    value: '#487ed3'
   - name: text
     value: '#000001'
 palettes:
