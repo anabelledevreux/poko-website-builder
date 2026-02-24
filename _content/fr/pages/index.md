@@ -12,7 +12,7 @@ eleventyNavigation:
 vars: null
 ---
 
-{% image src="/_images/logo2026finish.webp", alt="Logo Micmac", aspectRatio="50", class="mx-auto" %}
+{% image src="/_images/logo2026finish.webp", alt="Logo Micmac", width="250", class="mx-auto" %}
 
 {% sectionTwoColumns %}
 
@@ -22,7 +22,7 @@ vars: null
 
 ## My name is Ana, but you can call me Micmac.
 
-## I'm a designer w/ a focus on UX Design and Branding. 
+## I'm a designer w/ a focus on UX Design and Branding.
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
