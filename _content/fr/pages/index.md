@@ -13,12 +13,14 @@ vars: null
 ---
 
 {% sectionTwoColumns %}
-{% sectionHeader %}
-Hey !
 
-My name is Ana.
-{% endsectionHeader %}
 {% twoColumns  %}
+{% twoColumnsItem %}
+Hello,
+
+My name is Ana also known as Micmac.
+
+{% endtwoColumnsItem %}
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
 
