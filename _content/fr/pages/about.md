@@ -5,7 +5,10 @@ createdAt: 2026-02-24T09:11:00.000Z
 uuid: 0441b79b7c11
 localizationKey: c366d44fce10
 name: À propos
-eleventyNavigation: null
+eleventyNavigation:
+  title: À propos
+  parent: ''
+  order: 3
 metadata: null
 preview: null
 tags: []
