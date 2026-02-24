@@ -4,9 +4,9 @@ lang: fr
 createdAt: 2026-02-24T09:10:00.000Z
 uuid: 1ffbbd4c3425
 localizationKey: 372eeb6477c7
-name: Projets
+name: Work
 eleventyNavigation:
-  title: Projets
+  title: Work
   parent: ''
   order: 2
 metadata: null
