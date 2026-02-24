@@ -12,12 +12,6 @@ eleventyNavigation:
 vars: null
 ---
 
-{% image src="/_images/logotest.webp", alt="Logo Micmac", aspectRatio="100" %}
-
-#### From print to web, you can discover here a part of my creative world.
-
-#### I am looking to improve the accessibility of my projects, while ensuring eco-design.
-
 {% sectionTwoColumns %}
 {% sectionHeader %}
 Hey !
