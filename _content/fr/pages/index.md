@@ -18,4 +18,18 @@ From print to web, you can discover here a part of my graphic world.
 
 I am looking to improve the accessibility of my projects, while ensuring eco-design.
 
-{% section type="switcher", vars={"widthWrap":"","gap":"","class":""}, blocks=[{"alt":"Photo d'une tasse en céramique","title":"","width":400,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/dsc_0512.webp"},{"value":"BLABLABLALBLABLAL","type":"markdown"}], advanced={} %}
+{% sectionTwoColumns %}
+
+{% twoColumns  %}
+{% twoColumnsItem %}
+![Photo d'une tasse à café signée Micmac](/_images/img_6560.webp)
+
+{% endtwoColumnsItem %}
+{% twoColumnsItem %}
+# Ici c'est le "Micmac" !
+
+#### Comme son nom l'indique, Micmac c'est mon petit bordel qui est né de l'envie de pouvoir enfin avoir un espace où laisser libre cours à mes passions (celles qui durent un jour et celles pour toujours).
+{% endtwoColumnsItem %}
+{% endtwoColumns %}
+
+{% endsectionTwoColumns %}
