@@ -1,5 +1,6 @@
 siteName: Micmac
 productionUrl: https://poko-website-builder-a4m.pages.dev
+logo: /_images/logotest.webp
 languages:
   - code: fr
     name: Français
