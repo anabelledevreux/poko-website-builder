@@ -32,3 +32,5 @@ Micmac is my little mess that was born out of a desire to have a space where I c
 {% endtwoColumns %}
 
 {% endsectionTwoColumns %}
+
+{% image src="/_images/logo2026finish.webp" %}
