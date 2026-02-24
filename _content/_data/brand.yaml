@@ -1,5 +1,3 @@
-ctxCssImport:
-  filename: ctx.css
 inlineAllStyles: true
 widthsContexts:
   - name: main
@@ -41,14 +39,20 @@ typeScales:
     minTypeScale: 1.2
     maxTypeScale: 1.25
 colors:
-  - name: Ceramicmac
+  - name: ceramicmac
     value: '#c68c27'
-  - name: Fond
+  - name: fond
     value: '#423b2f'
-  - name: Typo
+  - name: typo
     value: '#ebe3d0'
-  - name: Blanc
+  - name: blanc
     value: '#ffffff'
+  - name: micmac
+    value: '#0041a8'
+  - name: details
+    value: '#2db2eb'
+  - name: text
+    value: '#000001'
 palettes:
   - name: Ceramicmac
     text: Fond
@@ -73,3 +77,5 @@ palettes:
 styleContexts:
   - name: main
     value: ctx
+ctxCssImport:
+  filename: ctx.css
