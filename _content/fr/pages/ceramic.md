@@ -15,12 +15,14 @@ tags: []
 status: ''
 pageLayout: ''
 generatePage: ''
-vars: {}
+vars: null
 dataList: []
 ---
 
 {% sectionGrid %}
-
+{% sectionHeader %}
+#### Collection Ceramicmac x Articule
+{% endsectionHeader %}
 {% grid  %}
 {% gridItem %}
 ![](/_images/img_6557.webp)
