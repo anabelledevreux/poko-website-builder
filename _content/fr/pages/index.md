@@ -19,11 +19,12 @@ vars: null
 #### I am looking to improve the accessibility of my projects, while ensuring eco-design.
 
 {% sectionTwoColumns %}
+{% sectionHeader %}
+Hey !
 
+My name is Ana.
+{% endsectionHeader %}
 {% twoColumns  %}
-{% twoColumnsItem %}
-![Photo d'une tasse à café signée Ceramicmac](/_images/img_6560.webp)
-{% endtwoColumnsItem %}
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
 
