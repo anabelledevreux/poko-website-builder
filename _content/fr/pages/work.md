@@ -1,5 +1,5 @@
 ---
-translationKey: cours
+translationKey: Work
 lang: fr
 createdAt: 2026-02-24T09:10:00.000Z
 uuid: 1ffbbd4c3425
