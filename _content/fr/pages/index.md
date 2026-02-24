@@ -13,3 +13,5 @@ name: index
 From print to web, you can discover here a part of my graphic world.
 
 I am looking to improve the accessibility of my projects, while ensuring eco-design.
+
+{% section type="switcher", vars={"widthWrap":"","gap":"","class":""}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/dsc_0512.webp"},{"value":"BLABLABLALBLABLAL","type":"markdown"}], advanced={} %}
