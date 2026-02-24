@@ -1,0 +1,26 @@
+items:
+  - linkTo:
+      type: pages
+      slug: index
+      label: ''
+      subItems: []
+  - linkTo:
+      type: pages
+      slug: cours
+      label: ''
+      subItems: []
+  - linkTo:
+      type: pages
+      slug: ceramique
+      label: ''
+      subItems: []
+  - linkTo:
+      type: pages
+      slug: about
+      label: ''
+      subItems: []
+  - linkTo:
+      type: pages
+      slug: contact
+      label: ''
+      subItems: []
