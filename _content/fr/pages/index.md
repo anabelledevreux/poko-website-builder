@@ -12,7 +12,7 @@ eleventyNavigation:
 vars: null
 ---
 
-{% image src="/_images/logo2026finish.webp", alt="Logo Micmac", width="200", class="mx-auto" %}
+{% image src="/_images/logo2026finish-1.webp", alt="Logo Micmac", width="200", class="mx-auto" %}
 
 {% sectionTwoColumns %}
 
