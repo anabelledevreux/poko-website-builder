@@ -6,12 +6,12 @@ items:
       subItems: []
   - linkTo:
       type: pages
-      slug: cours
+      slug: Work
       label: ''
       subItems: []
   - linkTo:
       type: pages
-      slug: ceramique
+      slug: Ceramic
       label: ''
       subItems: []
   - linkTo:
