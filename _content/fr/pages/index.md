@@ -14,7 +14,7 @@ vars: null
 
 {% image src="/_images/logotest.webp", alt="Logo Micmac", aspectRatio="200" %}
 
-#### From print to web, you can discover here a part of my graphic world.
+#### From print to web, you can discover here a part of my creative world.
 
 #### I am looking to improve the accessibility of my projects, while ensuring eco-design.
 
@@ -22,12 +22,14 @@ vars: null
 
 {% twoColumns  %}
 {% twoColumnsItem %}
-![Photo d'une tasse à café signée Micmac](/_images/img_6560.webp)
+![Photo d'une tasse à café signée Ceramicmac](/_images/img_6560.webp)
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
-#### Ici c'est le "Micmac" !
+#### Here is the "Micmac" !
 
-Comme son nom l'indique, Micmac c'est mon petit bordel qui est né de l'envie de pouvoir enfin avoir un espace où laisser libre cours à mes passions (celles qui durent un jour et celles pour toujours).
+> micmac n.m.. Intrigue, confusing situation.
+
+Micmac is my little mess that was born out of a desire to have a space where I could give free rein to my passions (both those that last a day and those that last always).
 {% endtwoColumnsItem %}
 {% endtwoColumns %}
 
