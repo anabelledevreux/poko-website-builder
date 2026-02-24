@@ -12,7 +12,7 @@ eleventyNavigation:
 vars: null
 ---
 
-{% image src="/_images/logotest.webp", alt="Logo Micmac", aspectRatio="200" %}
+{% image src="/_images/logotest.webp", alt="Logo Micmac", aspectRatio="100" %}
 
 #### From print to web, you can discover here a part of my creative world.
 
@@ -27,7 +27,7 @@ vars: null
 {% twoColumnsItem %}
 #### Here is the "Micmac" !
 
-> micmac n.m.. Intrigue, confusing situation.
+> "Micmac" (french expression) n.m.. Intrigue, confusing situation.
 
 Micmac is my little mess that was born out of a desire to have a space where I could give free rein to my passions (both those that last a day and those that last always).
 {% endtwoColumnsItem %}
