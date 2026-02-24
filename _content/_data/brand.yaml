@@ -54,13 +54,13 @@ colors:
   - name: text
     value: '#000001'
 palettes:
-  - name: Ceramicmac
-    text: Fond
-    bg: Blanc
-    accent: Ceramicmac
-    border: Ceramicmac
-    text-decoration: Ceramicmac
-    text--marker: Ceramicmac
+  - name: Micmac
+    text: text
+    bg: blanc
+    accent: micmac
+    border: ''
+    text-decoration: details
+    text--marker: ''
     advancedDefaults: null
     selection: null
     strong: null
@@ -74,13 +74,13 @@ palettes:
     svg: null
     scrollbar: null
     advanced: null
-  - name: Micmac
-    text: text
-    bg: blanc
-    accent: micmac
-    border: ''
-    text-decoration: details
-    text--marker: ''
+  - name: Ceramicmac
+    text: Fond
+    bg: Blanc
+    accent: Ceramicmac
+    border: Ceramicmac
+    text-decoration: Ceramicmac
+    text--marker: Ceramicmac
     advancedDefaults: null
     selection: null
     strong: null
